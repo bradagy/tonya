@@ -2,7 +2,6 @@
 ![image](https://i2.wp.com/algorithmxlab.com/wp-content/uploads/2019/02/Image-credit.-NANEX.org-HFT-trading-algorithm.jpg?resize=800%2C533&ssl=1)
 
 ## Formulas included:
-------
 1. Calculating the percentage gain/loss on an investment.
 2. Calculating the market cap of a cryptocurrency.
 3. Calculating the amount of risk needed per trade.
